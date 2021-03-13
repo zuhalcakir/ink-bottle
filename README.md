@@ -1,6 +1,6 @@
 ink-bottle
 ==========
-
+New File
 A minimal skeleton for doing Bottle apps in a structured fashion (targeting Python 2.7 or above), meant as reference code for training sessions.
 
 Should be usable out of the box (even if it only displays one view).
